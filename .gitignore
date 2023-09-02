@@ -1,0 +1,44 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Arquivos gerados por ferramentas de desenvolvimento
+.idea/
+.vscode/
+*.code-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Ambiente virtual do Python
+venv/
+env/
+__pycache__/
+
+# Arquivos de log e saída
+*.log
+*.log.*
+LOGS/
+log.txt
+
+# Arquivos de saída de testes
+test-report.xml
+
+# Dependências geradas
+node_modules/
+bower_components/
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.tmp.*
+*.swp
+*~
+\#*
